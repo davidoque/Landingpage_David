@@ -9,6 +9,7 @@
  -Vuejs
  -Webpack
  -Bootstrap 4
+ -firebase
  
  --local enviroment:
  -npm run dev
