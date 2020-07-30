@@ -3,7 +3,7 @@
 > Sitio en vivo:
 https://landingpage-david.web.app/
 
-## Setup del proyecto:
+## Detalles del proyecto:
 
 ``` bash
 # Frameworks utilizados:
