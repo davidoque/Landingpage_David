@@ -1,7 +1,7 @@
 # Landingpage David
  
  -----Sitio en vivo:
- -https://landingpage-david.web.app/
+ https://landingpage-david.web.app/
  
  -----Detalles del proyecto-----
  
@@ -10,13 +10,16 @@
  -Webpack
  -Bootstrap 4
  
+ --local enviroment:
+ -npm run dev
+ 
  --Deployment/hosting:
  -Firebase
  
  --Workspace:
  -Visual Studio Code
  -Windows Terminal
- -npm run dev
+
  
 
  
