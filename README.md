@@ -1,4 +1,4 @@
-# Landing age David
+# LandingPage David Melendez
 
 > Sitio en vivo:
 https://landingpage-david.web.app/
@@ -15,11 +15,15 @@ firebase
 # Desarrollo local:
 npm run dev
 
-# build for production with minification
+# Preparacion para deployment:
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# Deployment/hosting:
+firebase
+
+# Workspace:
+Visual studio code
+Windows terminal
+Sublime Text
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
