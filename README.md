@@ -3,7 +3,7 @@
 > Sitio en vivo:
 https://landingpage-david.web.app/
 
-## Build Setup
+## Setup del proyecto:
 
 ``` bash
 # Frameworks utilizados:
@@ -12,7 +12,10 @@ webpack
 bootstrap 4
 firebase
 
-# Desarrollo local:
+# Gestor de paquetes:
+npm
+
+# Servidor local:
 npm run dev
 
 # Preparacion para deployment:
