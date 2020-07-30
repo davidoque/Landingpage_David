@@ -1,6 +1,7 @@
-# landingpage_david
+# landingpage David
 
-> A Vue.js project
+> Sitio en vivo:
+https://landingpage-david.web.app/
 
 ## Build Setup
 
